@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\di7zhang\StudengUI\StudentModel\bin\Debug\StudentModel.dll
+C:\Users\Administrator\Desktop\di7zhang\StudengUI\StudentModel\bin\Debug\StudentModel.pdb
+C:\Users\Administrator\Desktop\di7zhang\StudengUI\StudentModel\obj\Debug\StudentModel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\di7zhang\StudengUI\StudentModel\obj\Debug\StudentModel.dll
+C:\Users\Administrator\Desktop\di7zhang\StudengUI\StudentModel\obj\Debug\StudentModel.pdb
+C:\Users\Administrator\Desktop\di7zhang\Students三层考试题\StudentModel\bin\Debug\StudentModel.dll
+C:\Users\Administrator\Desktop\di7zhang\Students三层考试题\StudentModel\bin\Debug\StudentModel.pdb
+C:\Users\Administrator\Desktop\di7zhang\Students三层考试题\StudentModel\obj\Debug\StudentModel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\di7zhang\Students三层考试题\StudentModel\obj\Debug\StudentModel.dll
+C:\Users\Administrator\Desktop\di7zhang\Students三层考试题\StudentModel\obj\Debug\StudentModel.pdb
